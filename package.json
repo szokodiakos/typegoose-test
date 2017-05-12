@@ -1,0 +1,19 @@
+{
+  "name": "typegoose-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typegoose": "^2.1.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2"
+  }
+}
